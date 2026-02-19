@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <RunTargetFramework>net10.0</RunTargetFramework>
-    <RunTargetFrameworks>net6.0;net7.0;net8.0;net9.0;net10.0</RunTargetFrameworks>
+    <RunTargetFrameworks>net10.0</RunTargetFrameworks>
   </PropertyGroup>
 
 </Project>
